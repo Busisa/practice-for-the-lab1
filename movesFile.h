@@ -42,6 +42,8 @@ void movesSearcher(char board[][16],char playingChar, char oppoChar,int n, moves
 
 
 
+
+// Now we are dealing with functions implemntation - GitHub here
     void algorithm1(char board[][16], int boadii[][16],int n,movesStore & gameCheck,ofstream &outData)// Function for algorithm 1
     {
         int a=0,b=0,c=0,d=0;
