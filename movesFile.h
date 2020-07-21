@@ -35,6 +35,7 @@ struct movesStore     // structs to store compulsory and possible moves
 };
 
 // protootying all fuctions
+// these are the prototyped functions of the game, GitHub here
 void algorithm1(char board[][16],int boadii[][16],int n,movesStore&gameCheck,ofstream &outData);// Function for algorithm 1
 void algorithm2(char board[][16], int boadii[][16],int n,movesStore&gameCheck,ofstream &outData);// Algorithm 2 function
 void movesSearcher(char board[][16],char playingChar, char oppoChar,int n, movesStore & moves); // Moves searcher
