@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1590532265 source:c:\users\busisa\desktop\suicide\main.cpp
+	<iostream>
+	<fstream>
+	"movesFile.h"
+
+1590533059 c:\users\busisa\desktop\suicide\movesfile.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<iomanip>
+
