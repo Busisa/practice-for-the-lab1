@@ -4,7 +4,8 @@
 #include <fstream>
 #include "movesFile.h"
 
-
+// it was supposed to be the functions templates but no
+// were to do that so, I'm just writing here GitHub here: SALUTE THERE
 using namespace std;
 
 // protootying fuctions
